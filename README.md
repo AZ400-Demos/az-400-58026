@@ -1,4 +1,6 @@
 # az-400-58026
 
 Fantastico ReadMe per il corso AZ-400
-seconda modifica
+
+
+Modifica di Italian Azure Guru
